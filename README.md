@@ -1,0 +1,1 @@
+Simples exemplo para testar a API da Hostinger com Terraform.
