@@ -1,3 +1,4 @@
+
 resource "hostinger_vps_post_install_script" "nginx" {
   name    = "Install NGINX"
   content = <<-EOT
