@@ -3,3 +3,5 @@ password    = "alguma_senha"
 hostname    = "example.com.br"
 region_id   = "14"
 template_id = "1077"
+plan        = "kvm2"
+ssh_key_ids = [280072]
